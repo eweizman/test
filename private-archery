@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.googleapis.com",
+  "@type": "ARArtifact",
+  "arTarget": {
+    "@type": "ARImageTarget",
+    "name" : "Archery",
+    "description": "So you want to become an archer?",
+    "image": "https://lh3.googleusercontent.com/8GzuwlGlqWxan62BuZlquZ-fCa9biyRGMxHyNGLOSvXucZ1AqWZS1uAPAvZKX3Rp4fSm-dfZAV35wV9-Ty7T1o_pgk2cEN-ZRpVZtkyNWjETtOHApx_NXDeMxrgDrhoODOrjUEMkh9_lnDW-tvJQVweDngg4ZrboPuLCqUfxmN4_vl-DeYaXpcJgQSmQsjCV8kjqUD7P9VNNYE0151547xMwyLLmeQEyJsNk_RqBAYNqg6npBfH3w7cY1E7OJbQzFgPRL031vhlfRWpEjYwPdZINg4DJOhJ-wXAO5ZypY6o2k1jgKwJCZHffQsuBZR9Vrok-AZdTQei1GX_0AKTdtuCuASd0_dYAT6zn_lKCcceiQKpOLpDCGbV-TKGZcmKjBJ99eCCA3iXFaEHeTD93VkqV2HvpVfSSB0qoW4JM-jmpogdFnLhsczJKiFwrJ0HKdk_DTELSJiRZXo_IWqOj94FS98mblBaB3bbn3dw4q8kiilHNp1yktI_3XT8yQBwnfuW-9DoycE4AQfUyl-dtWgjC-GDS1NMPw6qXR_j86Es6X9fdkbM0nso0hXTW9n4Uq3HBLwn2gu9EPkstISzd8UBXM9c0RCbIW_1Mljuaj6kbFeTSHvnzteJKRtYdRlFp94cM_9u0tDMCxunPvgwR1tNGBxfwEvmLxjHLYHUCDWAbicNqO9bgvXtG1PDkTlC3ZtZKIp5mvEorIUCNLCljXN8h=w1747-h1310-no"
+  },
+  "arContent": {
+    "@type": "WebPage",
+    "name": "How to shoot a bow",
+    "url": "https://www.archeryworld.co.uk/shooting-the-bow",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Google Lens",
+        "logo": "https://raw.githubusercontent.com/belindazeng/examples/master/lens.png"
+      }
+  }
+}
+</script>
+</head>
+<body>
+  <img src="https://lh3.googleusercontent.com/8GzuwlGlqWxan62BuZlquZ-fCa9biyRGMxHyNGLOSvXucZ1AqWZS1uAPAvZKX3Rp4fSm-dfZAV35wV9-Ty7T1o_pgk2cEN-ZRpVZtkyNWjETtOHApx_NXDeMxrgDrhoODOrjUEMkh9_lnDW-tvJQVweDngg4ZrboPuLCqUfxmN4_vl-DeYaXpcJgQSmQsjCV8kjqUD7P9VNNYE0151547xMwyLLmeQEyJsNk_RqBAYNqg6npBfH3w7cY1E7OJbQzFgPRL031vhlfRWpEjYwPdZINg4DJOhJ-wXAO5ZypY6o2k1jgKwJCZHffQsuBZR9Vrok-AZdTQei1GX_0AKTdtuCuASd0_dYAT6zn_lKCcceiQKpOLpDCGbV-TKGZcmKjBJ99eCCA3iXFaEHeTD93VkqV2HvpVfSSB0qoW4JM-jmpogdFnLhsczJKiFwrJ0HKdk_DTELSJiRZXo_IWqOj94FS98mblBaB3bbn3dw4q8kiilHNp1yktI_3XT8yQBwnfuW-9DoycE4AQfUyl-dtWgjC-GDS1NMPw6qXR_j86Es6X9fdkbM0nso0hXTW9n4Uq3HBLwn2gu9EPkstISzd8UBXM9c0RCbIW_1Mljuaj6kbFeTSHvnzteJKRtYdRlFp94cM_9u0tDMCxunPvgwR1tNGBxfwEvmLxjHLYHUCDWAbicNqO9bgvXtG1PDkTlC3ZtZKIp5mvEorIUCNLCljXN8h=w1747-h1310-no">
+</body>
+</html>
