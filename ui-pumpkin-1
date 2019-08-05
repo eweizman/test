@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.googleapis.com",
+  "@type": "ARArtifact",
+  "arTarget": {
+    "@type": "ARImageTarget",
+    "name" : "Cat Pumpkin",
+    "description": "An exquisite cat pumpkin.",
+    "image": "https://lh3.googleusercontent.com/zWRh00jQsPro6Jd4MaNjMf6Zi7W2-z96Ob3P4I8zQjclXr58oc-2BpRRaMdxgXWXlmrjFw0ufjuGhtsVsNDXoA2VMpey5ZDUvnMWlJjQripAtj-kzSqczW8_X6Th7HHG8HWRpieRd7XhPBBRa2iUpSW6WIExaA46IMOWoRtsj6OQ1x4Yxdnto10DmjLQnp4-Mgzqyd1nDhVypzNi6v2EwljVm-JZtakFV4ZDUuJHaBPWv5VbtuHc6F0IYO_nWZTpLv7B6R_8sihzWw3HRC6caliX9TenRpzqr8BQhGjvp3jGYhEMPJkql59YcfjHbeiLSxOwKJ1P62bTHt1v3Z_-BNa8YInqtPzyvbmCLeUy0q4EjV4hGbmdPCJZKn7UYP7WVKPQLbwRvaJpt05GPGhhFdx7b_7d5YE0RUI1JFxLxg1QHBf-OHUPZQi4HEsUceMhCnQzKdINnH1LcC6MBRMIm2cRUYw09QksIvOfasZAmz1AooNRcMIUdZJFEGNmieKt2HTVsLZdVTpbwsuWWQzFvX-ZoGKV_Ps_lkIS3jHmDy-hpnljIGUTSNUL-9510_8iaQKJH0WeM1B-Pk9NuJdm56wlleuThygeGTK74pPBl0S74yZ830Yo_ocx6WN7jFTCnsvCF0wbV5ei29i18aGaZgJCaxvQVQhLNLy0d1pPKIoS49wA3iLXpJatVXun2yIcirHqfczty8Y-PlHj4yDI22as=w285-h379-no"
+  },
+  "arContent": {
+    "@type": "WebPage",
+    "name": "How to carve a pumpkin",
+    "url": "https://www.bbcgoodfood.com/howto/guide/how-carve-pumpkin",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Google Lens",
+        "logo": "https://raw.githubusercontent.com/belindazeng/examples/master/lens.png"
+      }
+  }
+}
+</script>
+</head>
+<body>
+  <img src="https://lh3.googleusercontent.com/zWRh00jQsPro6Jd4MaNjMf6Zi7W2-z96Ob3P4I8zQjclXr58oc-2BpRRaMdxgXWXlmrjFw0ufjuGhtsVsNDXoA2VMpey5ZDUvnMWlJjQripAtj-kzSqczW8_X6Th7HHG8HWRpieRd7XhPBBRa2iUpSW6WIExaA46IMOWoRtsj6OQ1x4Yxdnto10DmjLQnp4-Mgzqyd1nDhVypzNi6v2EwljVm-JZtakFV4ZDUuJHaBPWv5VbtuHc6F0IYO_nWZTpLv7B6R_8sihzWw3HRC6caliX9TenRpzqr8BQhGjvp3jGYhEMPJkql59YcfjHbeiLSxOwKJ1P62bTHt1v3Z_-BNa8YInqtPzyvbmCLeUy0q4EjV4hGbmdPCJZKn7UYP7WVKPQLbwRvaJpt05GPGhhFdx7b_7d5YE0RUI1JFxLxg1QHBf-OHUPZQi4HEsUceMhCnQzKdINnH1LcC6MBRMIm2cRUYw09QksIvOfasZAmz1AooNRcMIUdZJFEGNmieKt2HTVsLZdVTpbwsuWWQzFvX-ZoGKV_Ps_lkIS3jHmDy-hpnljIGUTSNUL-9510_8iaQKJH0WeM1B-Pk9NuJdm56wlleuThygeGTK74pPBl0S74yZ830Yo_ocx6WN7jFTCnsvCF0wbV5ei29i18aGaZgJCaxvQVQhLNLy0d1pPKIoS49wA3iLXpJatVXun2yIcirHqfczty8Y-PlHj4yDI22as=w285-h379-no">
+</body>
+</html>
