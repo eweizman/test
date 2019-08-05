@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.googleapis.com",
+  "@type": "ARArtifact",
+  "arTarget": {
+    "@type": "ARImageTarget",
+    "name" : "Googley Pumpkins",
+    "description": "Googley and Googly!",
+    "image": "https://lh3.googleusercontent.com/-GylmaRj0ZzB_9dKYWcErDOn_QWMBbtwowGWW4Y_gVZV0DIJ6xuE66ftAphgCl3xw2a-WD7xZOGaZd9913OymnQwafKLCAV5zCWIsvpweaOApodYBBRAiAttKhJ-12wn1YcACoqgTDGJRP7DJa7MdsrlXNlfUPztQ25yEywUxxcY-OHxCeR6XQnpiN70W8lR9zOiwPlCcU8htQ9kj96NhhfbB618VNp-Vtg2lZn2y-mGhPsw7peOhvtFW14j9OxoAV5i6A9zzH7Dx8zhF3Ea9iqrIXwucWRE0g9tYkF7PM31XUoOoJULdWLvIqOlCNSuPuHiecOiW2AeWRbV3M_uJK68sEtCMY7H02tXZIFl0E8xUSVGh-whRblIwo87SBFj1DGAE1yYMrpPeGOBivmY8hTrddnS20cB9Mh5F19mF609RSS0mk40QYVRFyC_Rqkk1SBN2QqD4wgZziAfpWyYgQ9NjZh13GHLLb6a67HckrwHnkeudE1dfBtw1SgfympzEpO2xcTCXDob_vTXRXwIVlalkNTixZyLS3xMsL3t6XZw38dy92MNA1xRdyVuisqOeExGzd2yI1qxRSnvke_uTOFMZgx0c5JyjLUrvRt1yHqOl2eUzn-8A0lGdjLNenp0rxM-z1mniEMkmrcLnwLFlwZ6lAt9h7athvhsncOgDCH9Jf9mIwvJodt9bSLuUsA_gpJH-3RqL_7og6wvLX74HzBE=w401-h301-no"
+  },
+  "arContent": {
+    "@type": "WebPage",
+    "name": "How to carve a pumpkin",
+    "url": "https://www.bbcgoodfood.com/howto/guide/how-carve-pumpkin",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Google Lens",
+        "logo": "https://raw.githubusercontent.com/belindazeng/examples/master/lens.png"
+      }
+  }
+}
+</script>
+</head>
+<body>
+  <img src="https://lh3.googleusercontent.com/-GylmaRj0ZzB_9dKYWcErDOn_QWMBbtwowGWW4Y_gVZV0DIJ6xuE66ftAphgCl3xw2a-WD7xZOGaZd9913OymnQwafKLCAV5zCWIsvpweaOApodYBBRAiAttKhJ-12wn1YcACoqgTDGJRP7DJa7MdsrlXNlfUPztQ25yEywUxxcY-OHxCeR6XQnpiN70W8lR9zOiwPlCcU8htQ9kj96NhhfbB618VNp-Vtg2lZn2y-mGhPsw7peOhvtFW14j9OxoAV5i6A9zzH7Dx8zhF3Ea9iqrIXwucWRE0g9tYkF7PM31XUoOoJULdWLvIqOlCNSuPuHiecOiW2AeWRbV3M_uJK68sEtCMY7H02tXZIFl0E8xUSVGh-whRblIwo87SBFj1DGAE1yYMrpPeGOBivmY8hTrddnS20cB9Mh5F19mF609RSS0mk40QYVRFyC_Rqkk1SBN2QqD4wgZziAfpWyYgQ9NjZh13GHLLb6a67HckrwHnkeudE1dfBtw1SgfympzEpO2xcTCXDob_vTXRXwIVlalkNTixZyLS3xMsL3t6XZw38dy92MNA1xRdyVuisqOeExGzd2yI1qxRSnvke_uTOFMZgx0c5JyjLUrvRt1yHqOl2eUzn-8A0lGdjLNenp0rxM-z1mniEMkmrcLnwLFlwZ6lAt9h7athvhsncOgDCH9Jf9mIwvJodt9bSLuUsA_gpJH-3RqL_7og6wvLX74HzBE=w401-h301-no">
+</body>
+</html>
